@@ -57,7 +57,7 @@ export const config = {
      * Necessário para a imagem aparecer na prévia do WhatsApp. No Netlify ligado ao repositório,
      * se ficar vazio, o endereço do site é usado automaticamente.
      */
-    url: '',
+    url: 'https://valentina-bday.netlify.app',
     titulo: 'Valentina 12 anos · Pool party! 💦',
     descricao:
       'Você está convidado(a) para a pool party de 12 anos da Valentina! Domingo, 29 de novembro, às 12h. Confirme sua presença 🌸',
