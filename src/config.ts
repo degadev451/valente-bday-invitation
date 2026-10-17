@@ -37,7 +37,7 @@ export const config = {
    * URL do Apps Script publicado (termina em /exec). Veja o passo a passo no README.
    * Vazia = modo demonstração: o formulário finge que enviou e avisa no console.
    */
-  urlPlanilha: '',
+  urlPlanilha: 'https://script.google.com/macros/s/AKfycbzjIE1UceBFur0xZdICnBoLkUla97782TdsrNOMYyE2TelVYaXCPmSA2cHl59TqqJb1tw/exec',
 
   /** Nome da chave usada para lembrar a resposta neste aparelho (troque para cada festa). */
   chaveAparelho: 'convite-valentina-12-anos',
